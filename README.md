@@ -15,8 +15,8 @@ To play the game, you can access it on my [Itch.Io](https://lucas-efeito.itch.io
 - Sound Effects
 
 # Credits
-Sound Effects were created using [BFXR](https://www.bfxr.net)
-Font used in the game: [Press Start 2P by Cody "CodeMan38" Boisclair](https://fonts.google.com/specimen/Press+Start+2P)
+- Sound Effects were created using [BFXR](https://www.bfxr.net)
+- Font used in the game: [Press Start 2P by Cody "CodeMan38" Boisclair](https://fonts.google.com/specimen/Press+Start+2P)
 
 # License
 This project is licensed under the MIT License. Feel free to use it as a learning resource or to add it to your portfolio.
